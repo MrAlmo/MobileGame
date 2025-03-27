@@ -1,0 +1,19 @@
+# Игнорируем временные файлы Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# Игнорируем пользовательские настройки
+UserSettings/
+*.userprefs
+
+# Игнорируем файлы IDE (Rider, VS)
+*.csproj
+*.sln
+*.suo
+*.vscode/
+.vs/
