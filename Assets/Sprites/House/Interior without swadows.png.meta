@@ -1,0 +1,6645 @@
+fileFormatVersion: 2
+guid: bff83d295302bc24aa60f5572ae9ecc2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Interior without swadows_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 808
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 317eb1ed010b7494f8be97c0fba639e6
+      internalID: 2022376987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_1
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 808
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73489e8cda713647839904403ed6168
+      internalID: -1854051603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_2
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 808
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f85f2272bc7e8479da2281df618335
+      internalID: -200638184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_3
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 808
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60a611c4bcc023d459239a7f19d81e7b
+      internalID: 1514719829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_4
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 796
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1b078262dc430c41a8d419e19c83b95
+      internalID: 244328999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_5
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 796
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcb31ce30a6d33042ba920c426088bb7
+      internalID: 560641299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_6
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 810
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72375bbe9cbb5814299c47af6c7d5978
+      internalID: 1912990590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_7
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 810
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ea3ef2c817dd4b9b6b7f789955b10
+      internalID: 465082136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_8
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 809
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b9f7588e7fb6044bb076758d5b199ff
+      internalID: -154162188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_9
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 809
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d33461674e50def409b8da571921cd43
+      internalID: 576741796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_10
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 812
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd032c9f0b690e94289ea945607fd600
+      internalID: 358345613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_11
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 783
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09ccf220e149a314eac853a12139bf13
+      internalID: -483336086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_12
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 783
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d428d7c116ad14640900542a24396f95
+      internalID: 1642368218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_13
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 783
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bc0b1ba3f4d40643a947afccea3e37a
+      internalID: 175031024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_14
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 783
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d06e5517f84ae174096a0fb7634e46fe
+      internalID: 1964972752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 782
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8c442a9969c6514ba6771fb1fa495ca
+      internalID: -2107683554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_16
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 782
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59b0012f9b63aea4fb20c5caea20e863
+      internalID: -312843803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_17
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 782
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d9c4b1d3400c774b98ccfa53403f5cd
+      internalID: -1813725264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_18
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 782
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ba9bdaf4748f47871dc1d105c226f
+      internalID: 1195886418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_19
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 782
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f65be4e934861a4cb15e4b4cbe1d36b
+      internalID: -1466348473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_20
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 767
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c57d511b0d4cdf4aae1b15b2753f85e
+      internalID: -981009492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_21
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 785
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01906a0918ff3594eb63ed48f09d5eee
+      internalID: -221500856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_22
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 758
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9b3ca48f238bee448c7f361d62252ce
+      internalID: 839801471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_23
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 754
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1d92693e850fa478c3240c1105673d
+      internalID: 577131366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 756
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9e425787b43eec4e84092e80726f228
+      internalID: -1502672985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_25
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 756
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9546a43638340c041958014f6351bdc0
+      internalID: -1626363547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_26
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 756
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22a6670489964c14e8ef723a8622b33c
+      internalID: -1733593140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_27
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 756
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2caea852419937b48b34252acb0f2fe5
+      internalID: 1452025034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_28
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 765
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f3c03fe1e63145b766bb9b175d3a2
+      internalID: 45948797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_29
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 739
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32ad2863cf77de54296b26c6a6c3ba7f
+      internalID: 1592434531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 729
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aae8c1f4213cc34c9a5bc200b2aed95
+      internalID: 368596975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_31
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 729
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 795a9be1dbd158d4fa1be66771b4c1b7
+      internalID: 336502250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_32
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 729
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85685d1fa19b2642b6dee630cf72bd9
+      internalID: -722854751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_33
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 729
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac6c45557090fab42a5a71ca3ed24d4f
+      internalID: 584310052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_34
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 730
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66da4b8a91d24e8449f219cc8e562f68
+      internalID: -412560325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_35
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 730
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8aab57ee41075c045aeb4f6fca647604
+      internalID: 103954585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_36
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 730
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97ca013ac27c47a4faa0c491e8b2454d
+      internalID: 1397547932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_37
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 730
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a82e982ede3c454e99c5f74fbacba51
+      internalID: 861400125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 699
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ad488a085bc39f46ab4b3cbfc7405f7
+      internalID: -1650701213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_39
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 699
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0341bc312ae7e504eafff65d0ad8777e
+      internalID: -2034154092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_40
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 707
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c2a4595ae96b684cbb24a68e671b64b
+      internalID: -124273358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 714
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac4df8c62fbe7c341834d6cdfe100aef
+      internalID: 865909202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_42
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 714
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b4b82dc302e3e14185d76d29c49c225
+      internalID: -1892796265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_43
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 714
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9d1ce36fac1c8547bd6fdd80245839b
+      internalID: -1390252677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_44
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 700
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3134f22ce01266942a26e407a2168e6b
+      internalID: -960228879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_45
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 681
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a6c95c24e0c1e84dbf824b0f9fb489a
+      internalID: 1112748333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_46
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 675
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bde7e3dc4a51ed42b9b586e9da3bdd3
+      internalID: 1084267866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_47
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 675
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd1e0c855c6b45345b9c2f4985b10591
+      internalID: 1682407805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_48
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 674
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0996361f8ef6ce4491fc3b31e6a065e
+      internalID: 147580664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_49
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 674
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 298bf0daf992e9b4aa33b325770102ff
+      internalID: -2064790936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_50
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 687
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebcfd42733397e4eb6d171d0c672770
+      internalID: -1766414083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 644
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad3c7c1bcf359ae469852c6b321f5412
+      internalID: -45407069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_52
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 644
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e527a627a9c085743a8a8a92ae72dec7
+      internalID: -381217879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_53
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 654
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dd2fe7003df30f4eafec3ea68bc7004
+      internalID: -1175397227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_54
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 654
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b530a22c980e0f4581810aa5d837802
+      internalID: -683410531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_55
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 658
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2f8091f1d751b044809f055f47a097c
+      internalID: -1502786365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_56
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 666
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ef8cdf605f784945a36a396a42248c2
+      internalID: 671379592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_57
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 659
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12e07cc6d7f44db4780ec3bc72cd7022
+      internalID: 765636620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 659
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0aea85306fe29b94fad4ae240713ec5d
+      internalID: -213357491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_59
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 640
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c85ccb85fb93d748a3be280b7a14499
+      internalID: -481844186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_60
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 623
+        width: 31
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c897dd0ea129c74f898a1a2aac3d30c
+      internalID: -1354193222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_61
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 637
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9011a22b94726da4c93cfdcd6177ea75
+      internalID: -183112506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_62
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 630
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e40e6a3c170663441b780186416174e4
+      internalID: 744183542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_63
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 630
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cfa88f1b956364a9f19ef96d5e41c7
+      internalID: 628952296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_64
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 630
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70739ba0270940c4081901b5e995a8f9
+      internalID: 1933663375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_65
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 630
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97488a1cf3874c4a86b0e20b2ae44ed
+      internalID: 1598642419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_66
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 639
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a38d1630907259441b15bc86f3345c4c
+      internalID: -405682935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_67
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 639
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a579013599b3ef64d82b1957dcd45b35
+      internalID: 1632992343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_68
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 646
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1d07c02aa5f1b4f812bb1aa41af6a2
+      internalID: 1285790545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_69
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 646
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5428cba811be3824db0bfeb7a080c8ad
+      internalID: -1070422269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_70
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 619
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba34c2ed107dc454995d49808ee96067
+      internalID: 275935979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 619
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25eb375f44d047746a8b4383a9584c9e
+      internalID: 968313322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_72
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 624
+        width: 25
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1cae1d1c6b7fb54eaa179ca6757a4b6
+      internalID: 250665898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_73
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 623
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 126b6705a91de374897ae5af41c8b651
+      internalID: 1186783395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 584
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc17f4fc3fc9b3540bde72162558c3f9
+      internalID: -1657285154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_75
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 584
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87801a063f1f290448bde3778d8bc6df
+      internalID: 2134719671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_76
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 584
+        width: 20
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1d9cbe62aae154489e7ea8bd84e8fed
+      internalID: -195405140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_77
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 584
+        width: 21
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46690b5aa3c2f3949929b8535ba84a0e
+      internalID: 701598134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_78
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 572
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f77115dca2cf1a64c8c216ad5afb4020
+      internalID: -1543683248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 572
+        width: 29
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44fc0a49591362945b0a0631baed78a0
+      internalID: -1020696621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 586
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d926ce7f98e405642959ee6b98e20c7a
+      internalID: 1522204595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_81
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 586
+        width: 15
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262a1b1910e58ad41b32f41b411214e7
+      internalID: -989337054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_82
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 585
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37f97702c0a4a5841a596e1f63e4d09a
+      internalID: 197945744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_83
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 585
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609a4ccbde5f49b4d90b7469dc8fabad
+      internalID: 1299370591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_84
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 588
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fced0ae0ecce854bb9b6dc8a852c901
+      internalID: -2046058204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_85
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 559
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ca569a2a1f5eea4c96da9af8793c81b
+      internalID: -1054116530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_86
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 559
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04fc9ad1a5e8d3942bfc48ef9a6a300b
+      internalID: -1341216567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_87
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 559
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4573ace37ee8a074cb23dbad8fecb54d
+      internalID: -1733618361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_88
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 559
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7ffceec24462c84e848189e563d9479
+      internalID: -1803615677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_89
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 558
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38ad4bd10f0edd84b86256e43a269f23
+      internalID: -1620870717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_90
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 558
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76dc822ce41ec0f478da53afb85dbef8
+      internalID: -1096033675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_91
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 558
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50ef508f42c2c58419f1edefc2b67c96
+      internalID: -581756708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_92
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 558
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e891f3c1fb931f44ace395dac1617eb
+      internalID: 1599839192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_93
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 558
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c21f9ba2b118c44f8e137cfe6c6043b
+      internalID: -1691230775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_94
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 543
+        width: 34
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bb9f90541e8cdc48b85b46734a48710
+      internalID: -120342383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_95
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 561
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eb241c0922629243a4b387de6090777
+      internalID: -224501002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_96
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 534
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 736e516dba56c2b45a707c94aa451d1e
+      internalID: -1962265813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_97
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 530
+        width: 17
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec5006f67e31816458388f0d381a8167
+      internalID: -947327493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_98
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79acb3d4bfb41f42b15870df5e1856a
+      internalID: -282636474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_99
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 532
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f10b4fd7cf32f84b880b92ddcf4fffc
+      internalID: 196013585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_100
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 532
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a178b9eebefe76849b3748f0b53059bf
+      internalID: 495050999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_101
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 532
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e99be198c7d1b5741bf8ce492e0df373
+      internalID: -110696763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_102
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 541
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c859a5457639419d58d940156c75f
+      internalID: -1008581891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_103
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 515
+        width: 34
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49df9729a6703d24a926a9b04197c65d
+      internalID: 745767944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_104
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 505
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6bdb3f84d6c3834689237b46f608aaf
+      internalID: 1968220371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_105
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 505
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca3d9a0ae4100446a4f3832194eeb2a
+      internalID: 651103003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_106
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 505
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdedd93c9fec864428270990024c3b0a
+      internalID: 921210268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_107
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 505
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae87886a10619704eb90576b0f355b02
+      internalID: -1850936299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 506
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30da3bdb9dfb2a849a0c584b80624738
+      internalID: -892662773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_109
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 506
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47fd9d37385d492448a030a1f86cd1b5
+      internalID: 2027670332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_110
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 506
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79a16ff6a4ccf044a10b256b28ba12c
+      internalID: 859217478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_111
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 506
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524fb71675f140941b91c9468d3770e7
+      internalID: 1214711963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_112
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 475
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b05fe67614b4a5e4dbe5a43f26e5ac07
+      internalID: 1895437613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_113
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 475
+        width: 23
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36e3459a3bafb44a99fe6798ec2d07a
+      internalID: 563127115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_114
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 483
+        width: 33
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7145bb840fad2d64e9a12f1333c2dbc8
+      internalID: -2000193474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_115
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 490
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a1c3ea7e11ff494b963d3100244f4c7
+      internalID: 406284769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_116
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 490
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ffe4991be518444faf18fe73e337e39
+      internalID: 1655311007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_117
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 490
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdd17eacc6829c489b2c98a34012562
+      internalID: -472947939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_118
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 476
+        width: 46
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44f56eb8b9888ca489493911020c3d94
+      internalID: 1004418399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_119
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 457
+        width: 22
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7280f06306ad8974893c6bc489903e4d
+      internalID: -2066922621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_120
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 451
+        width: 32
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfacec6cabf861946b2492958c44da09
+      internalID: 715333045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_121
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 451
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 733c37bddac81ef4a8e6c7e1349f23dd
+      internalID: -464170857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_122
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 450
+        width: 30
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342779a9b877e464d8e0cb21df236475
+      internalID: 588105280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_123
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 450
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afbbfdc6fd567ed48bb3d95b7762ebfb
+      internalID: 698270474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_124
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 463
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f96f846011e5760459098f096c85c80d
+      internalID: -156201339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_125
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 420
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ff32c7e666aa848942ab2e9372a056
+      internalID: -2089408409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_126
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 420
+        width: 42
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70554052ee0cad043a4b2fdc43874bd2
+      internalID: -1398252706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_127
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 430
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8cbce82b54453343ba1a31aa0d15c72
+      internalID: 240659503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_128
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 430
+        width: 16
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fc156b46688b924e9a8f468492e8ea1
+      internalID: -1845182785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_129
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 434
+        width: 46
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8386b2403022159449002d85351f48aa
+      internalID: -530311844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_130
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 442
+        width: 33
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 334ef39f9754286429d6e03ba29e7180
+      internalID: 43818526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_131
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 435
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11cc4532cbed3c44a774f96fb0ff166
+      internalID: -341136096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_132
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 435
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98dba24fd2f67a41a12daf909fbd8d0
+      internalID: -1220091218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_133
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 416
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8334625d0891d047a4e04ec4b4012c3
+      internalID: -684009184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_134
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 415
+        width: 19
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 188448dc7594a53479dc93b4e8cc04f5
+      internalID: 469331023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_135
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 415
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db637cbeb6a1265408616e5b7d8ef05a
+      internalID: 1461203221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_136
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 401
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e66ceba5a09c6c42990eee8e2bfd213
+      internalID: 183253987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_137
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 413
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d261a5c736b0c94ca6dfd3db62f5e3b
+      internalID: 1691819505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_138
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a9e4fb12ac9b74c907b920f5e496e0
+      internalID: 677305792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_139
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6126bdfe4908444498aa26629360a96c
+      internalID: 2043353526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_140
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ebdf620a9d5e74fb6b1c4ac80e656d
+      internalID: -1161654039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_141
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 406
+        width: 16
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14cb3db7c5db9db44934ea3aac4a828a
+      internalID: 673470463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_142
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 415
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cc66daf07590341ad6ff17cf9b332b
+      internalID: -1872020841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_143
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 415
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af33d375186601d479294e451bdb6431
+      internalID: 1681622577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_144
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 415
+        width: 21
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eaab4a3afa5e8f4cb3bbef22eb4880d
+      internalID: 161441887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_145
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 395
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6690d76a69fb8c541a5cad11d55ad52e
+      internalID: 140561272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_146
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 395
+        width: 11
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0578710d6dff0de46a849114bebd3712
+      internalID: -1721859997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_147
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 346
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5818980a0793184e9e0f34838713556
+      internalID: 1861786816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_148
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 346
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 636f58d0015b27e4687acdc60675a5e4
+      internalID: 419306864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_149
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 371
+        width: 23
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0952055653ed45842bff823159c49f2b
+      internalID: 1253972706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_150
+      rect:
+        serializedVersion: 2
+        x: 369
+        y: 372
+        width: 30
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29a561dcb43720f469068173a7e6f518
+      internalID: -630859387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_151
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 367
+        width: 25
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c24e0f99c207849ac021386fca4da0
+      internalID: -349796257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_152
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 356
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b29807730f5a164aab41bc62f9f374e
+      internalID: -429731285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_153
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 356
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac0f853592653f44a948ce7b1d507361
+      internalID: 1321133216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_154
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 356
+        width: 27
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fbe923ecc5692440b3d42a27461f5c0
+      internalID: -59175669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_155
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 356
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539930ca3a8a1a449850725f4f658a7d
+      internalID: -1850939661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_156
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 356
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 244f606f95f70a64b88af6e57e52ea3f
+      internalID: 1457395931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_157
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 356
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 946b7898edd76bf4195f3aa1f9fe5ac3
+      internalID: -2110816391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_158
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 349
+        width: 24
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d4d7544f0412bc41873135befd5ac8a
+      internalID: 561374681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_159
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 347
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee24e9b2e2d56644a8339433fc9be725
+      internalID: -744119323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_160
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 347
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bf7a7dc12f87b4396f38e067b76e55
+      internalID: 1903683038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_161
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 347
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4630558501d6b84587250e8712e669e
+      internalID: -1265835715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_162
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 344
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b7ca11dd936e9e4f883954f9410c3ed
+      internalID: 1185446752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_163
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a1487141814bd4fbd01d6ea47d7d16
+      internalID: 1607164448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_164
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 320
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c359f5528269e514a80c57e8b3495638
+      internalID: -798932739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_165
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 320
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cba39a0056b032246b5d02bcfb5759b6
+      internalID: -1912854600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_166
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 320
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910df72714ba7b442b2f98f7d9ff113b
+      internalID: 1884990419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_167
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 316
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88da7e3054d828f4cb3b7a62342c658f
+      internalID: -32341326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_168
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 316
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea428eb2e8d543544b68fab3afff57eb
+      internalID: 1592482214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_169
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 282
+        width: 28
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43bf3f1882330db4a8611ea90dd85789
+      internalID: 773173838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_170
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec2e2b7167ce4cb4ca1851e2c7b72c67
+      internalID: 1958764992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_171
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17ab1478181e40449eaea36f1e13c8f
+      internalID: -172722502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_172
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d989401979046f240b925b2ada1817e2
+      internalID: 2121217987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_173
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53a49906e8ac74478ef2dfbf5a9e100
+      internalID: -550673704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_174
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c5d371984372b498bef8b258a0f70a
+      internalID: -654940637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_175
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b50c463d820712f4b83406985c369764
+      internalID: 1779634437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_176
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 330
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7c8293e805e194696d0d0f66dfa94c
+      internalID: 252918491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_177
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf91aea1c0c2438488331a0bbbfcc3a2
+      internalID: -1540090605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_178
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b9de4ca00adf48469d4fb1d6e01c8ac
+      internalID: -1084354846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_179
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec3029aac9299f74bb2acf1ec5ea50fe
+      internalID: 1658071129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_180
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebb7c57b44a3f194c92a4e40e98d32d8
+      internalID: -777551056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_181
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 330
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33793b1e169c0ef46a5cbe58b07d8aad
+      internalID: -88889485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_182
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 088ace209acde554bae34088eed4c328
+      internalID: -421804344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_183
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51896047e40487e44bbd7a997cae51a2
+      internalID: -1339618436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_184
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5711d6751f0d09a47a449ef27d82e413
+      internalID: 1794635948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_185
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f01f199c359e37a43b0edde59be2db2d
+      internalID: 1566644286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_186
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 313
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03d871d0b8d790f48b5adea27ceef3a6
+      internalID: -838026852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_187
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 318
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d880a7686f04be4f8447acedfd110fe
+      internalID: -1180393428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_188
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 318
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d1fa9fa9488f1b4f948a4dbc355a7b7
+      internalID: 371379332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_189
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 318
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689ab6da754fe054dbd47412fcbe56b1
+      internalID: 1693277015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_190
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 318
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e804df933da87bc4a980c1ee66ba35a9
+      internalID: -18039399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_191
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc7418959f4f9b64c88685a374397866
+      internalID: 326043341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_192
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fa03541e6311844ebb04fe7ca769055
+      internalID: -692928833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_193
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e800af47e7066469b008513c89b25a
+      internalID: -1734035322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_194
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 318
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 485f38474f0adeb49bbe4da66aa5188d
+      internalID: -223799421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_195
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 279
+        width: 53
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423b92f87c4831443b1e02812d24cc8c
+      internalID: -1172302042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_196
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 279
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4c744e6aeb2d984d9a071549565be57
+      internalID: -222612693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_197
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 279
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 563f103d9210ef348aceafaccd2a61f4
+      internalID: 1565766044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_198
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 279
+        width: 29
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54f18f93693e00646a4dae1d291c95c5
+      internalID: 1036215355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_199
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 277
+        width: 57
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0df7f73033de64bb51886e3bb6af47
+      internalID: -2079920075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_200
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 277
+        width: 33
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2241d7a7f09c027448b8289d7be33627
+      internalID: -974313850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_201
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbe65e741a56fc343b2dab513603ce9d
+      internalID: -93726452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_202
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34d3c6d0131793e439a2f3d9a4ce1f50
+      internalID: -1132634845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_203
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c03cdcb256878a9409fa9ffb99b09479
+      internalID: -1162530008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_204
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7b4b417c9fc7543ba68c0205c569a0
+      internalID: -1036438227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_205
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 297
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90b4fc02de8ab844c87ba487229c3337
+      internalID: 483324934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_206
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 308
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71c89160a13836745a0cc9f506cd01eb
+      internalID: -2020554600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_207
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 308
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 210f688eac46f4e47a3c3d3263766ed2
+      internalID: -1961094419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_208
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 308
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eed48c27595a66a40ac3e44046d30778
+      internalID: 909334079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_209
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 308
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aec50676f936fa94db95f352ff276a85
+      internalID: 1413675243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_210
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f946dd1c402c8924e8e58008c0c7a3df
+      internalID: -1169905683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_211
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abcd6f3a2a1d331448f7546edc9ec46a
+      internalID: -656475447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_212
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50760bf51c396974a859c31f5db6b3e6
+      internalID: 944264663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_213
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 308
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab9ca9507d9b1448b97741d3c5e7770
+      internalID: 98079017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_214
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 290
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5053e2eea4ffbfd469330f94d4af5b4b
+      internalID: -681244280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_215
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 290
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71427c965de025246bb830f58001467e
+      internalID: 1296292248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_216
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 265
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3972d459f3e5ffb44b33ef8017fe7e9c
+      internalID: 1816616349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_217
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 265
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f1c3d9163689c2409fd3450486e3e98
+      internalID: 1306999900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_218
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 265
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ea2b3d1cca7cdc4fb9043ef326e86d9
+      internalID: -613045103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_219
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 274
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36236473c4af3648aee7d1fd45a9474
+      internalID: 161885794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_220
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 274
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6e97b2bec13be34fbadf8c343c042a0
+      internalID: 892872325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_221
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77ce5c2cf68bbb84a9695410f747b358
+      internalID: -1565822775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_222
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 266
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c5407e273f2d344088e71e9d1ab04da
+      internalID: 1502140906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_223
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 269
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d654535f1349254c83e68517a175bd5
+      internalID: -1133409172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_224
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 249
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8388c76f996ab4f888a62162064481
+      internalID: -2055109189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_225
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 248
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb0fdf1ee3ca1ec4f8459d3bfd3ef38d
+      internalID: 1472650929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_226
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 248
+        width: 17
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c0aad310f4e17c49a88d6e0c23d3357
+      internalID: -1747467300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_227
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 255
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fc848bca1cbfea4fb37a18c6d2cda67
+      internalID: -471307345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_228
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 250
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b5cbe883050dd4b96df2704e0434e5
+      internalID: -867490370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_229
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 233
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90217366618dea845ad624b4b862861d
+      internalID: -1848608847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_230
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 248
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f41a6deebb6e9cc4691871d07b1e8130
+      internalID: 1104204609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_231
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 265
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1be81b254fe52c84aba2114eda99ed9d
+      internalID: 1304535214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_232
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 265
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a11d7c51645958841a1741d021f276a1
+      internalID: 880700147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_233
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 261
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11da531940e20d249bd716f8c52d3d5b
+      internalID: -40268848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_234
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 261
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82604fbebc2f1a3459c7b0d11dfebee6
+      internalID: 1895026843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_235
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 261
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d2e559e438294940b42eba76ffc21da
+      internalID: 843254282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_236
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 261
+        width: 4
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6180cb50736504b46a4f0850816574a1
+      internalID: 1721283599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_237
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 223
+        width: 27
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2da90d6fd854f3a4eb29432b315ff0d2
+      internalID: -1085906798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_238
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 226
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82db1f3220ad69e4b9ad67e03a55ae7b
+      internalID: -1070959258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_239
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 220
+        width: 11
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11716117624483540a36103b98269c6e
+      internalID: 659151514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_240
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 195
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12a803c112608c84d9c4a14080a7c8de
+      internalID: -1415325563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_241
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 195
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b386ed081c541648ad110db84770e38
+      internalID: 1681867282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_242
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 203
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704a261a768577548b1594b7c1a15fed
+      internalID: -468653384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_243
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 203
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af910827b3feea4aa38e68f4bf85d2f
+      internalID: -1482999600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_244
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 195
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3d6cfc668f7f1c4ab2e733e14d01752
+      internalID: 700606926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_245
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 195
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef860e412d0259743a2a8f93e4ceeca4
+      internalID: -1797619307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_246
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 203
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 503fc40d530b96f4d88ad4540cda0921
+      internalID: 1964403861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_247
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 203
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d278eea374964b8afd8e7e2852393
+      internalID: -878371841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_248
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 195
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b2611ad532acbd4b8d9a023a80bc752
+      internalID: -540787143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_249
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 203
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 197678ea0a9d749418089f9b0c3f3c78
+      internalID: 397481144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_250
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 197
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f9dc675c721e0f4b97e3df34efa4060
+      internalID: 602914949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_251
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 199
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b301e97a3b853f4ca8251c5019b2e7f
+      internalID: 1887310555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_252
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 195
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64324e91e157a014ca5215293d3c34e2
+      internalID: -1456313057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_253
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 194
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3ea4c6043818f468ea5d29deff74fb
+      internalID: -1273803318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_254
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 179
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60b62a884785b98419f4f36637b89336
+      internalID: -1758274316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_255
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 176
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 447e53dfe01153345b23a5968d936130
+      internalID: -1886239613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_256
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 170
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d97118f08d371c4fac79eb36b929499
+      internalID: -1547641219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_257
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 169
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57a9177aacdc4343a54d34f495f19af
+      internalID: -1967659824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_258
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 155
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be0065a6e6296454e9f8ab3623f4b238
+      internalID: -1959908795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_259
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 155
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5fd115d5772ad40b5cd30159e38dcc
+      internalID: -1494293097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_260
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 163
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff7ee7fa37f85274b9f1741cbd706062
+      internalID: 514725252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_261
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 163
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfdb3e5c1a73c2943abd96d330712b88
+      internalID: -1389622302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_262
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 155
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c0e531e48dbc2247b857dff76f7691c
+      internalID: -40927232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_263
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 155
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2aa3e6796e1b09448ecafdb8a5677e0
+      internalID: -48567581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_264
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 163
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dddf3a5921137c41ac05a66c98bab61
+      internalID: 432074132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_265
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 163
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 719531b2acc98d04a8c7610f26ba1082
+      internalID: 1899487065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_266
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 155
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 174590326468efa4f94bd159918fb899
+      internalID: -1272616775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_267
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 163
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f91345c7cda73c340b6e2b5f66874ac8
+      internalID: -1479066511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_268
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 160
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425b60eb1d8fb3540ac5ad95f501a979
+      internalID: 1207776562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_269
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 159
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca87713c44cecb94e915f6412840699d
+      internalID: 487194828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_270
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 146
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94f1e2e3dc90d724d8f5f14d2a1a6dd4
+      internalID: 1379778355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_271
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 146
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ece5da9451e6c459dd75fa7200dc21
+      internalID: 318474711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_272
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 142
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80dae24bc9bca6b44988044e1646b456
+      internalID: -807880623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_273
+      rect:
+        serializedVersion: 2
+        x: 51
+        y: 144
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9f4fa3f42313448aa57fb8373be357
+      internalID: 1036880538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_274
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e97d493f9988b4182219e0cbcdc113
+      internalID: -522603241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_275
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f275ab77d758548bfff80fe5393fc0
+      internalID: 1257510336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_276
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 123
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03bb0bdb505307740a2ac0046817fb2c
+      internalID: -1569293669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_277
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 123
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34c9a740418c8dd47bb2961897199998
+      internalID: 1087566233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_278
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d2be280b6ff0684f9e3398767f4efee
+      internalID: 739835222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_279
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 115
+        width: 16
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fcc6a636523afa42be6fade3c44c7b5
+      internalID: 788589111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_280
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 123
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a84eeee68d4e2b48b16736a00e6f5f6
+      internalID: -2094636691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_281
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 123
+        width: 12
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7396fdc625e27a2498a3c1013c8ee50d
+      internalID: -1978221281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_282
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 115
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d4afb041baa5a84598be2bd7ef28425
+      internalID: 679508412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_283
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 123
+        width: 33
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 702f2a245486bf745b1000dac007c4d2
+      internalID: 669869467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_284
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 124
+        width: 32
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 409039abf3f6d7c4e845dfc7be6dd477
+      internalID: -184892442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_285
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 126
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579c4c1d370a1fe4e9f6d4ab0d55a047
+      internalID: -981550236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_286
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 122
+        width: 35
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c24cc53423925b845b22aa49b93e1e7d
+      internalID: -1063454916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_287
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 66
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f50cfddc557136e40a47b2351e470a1c
+      internalID: 321065719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_288
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ae8f77456c28fb4391a7055ad12d814
+      internalID: -1446097883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_289
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 82
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d96d89320af70b4dbb5263067c7f16e
+      internalID: 227640426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_290
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 74
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b1c1189a417f464794eb5d522ac6130
+      internalID: 1932462576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_291
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 82
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220860f16ce62d843ba65d2237dfd500
+      internalID: -1802363392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_292
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 74
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b76c84e5fda26f448ad7bf5490fedcd
+      internalID: 1055883472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_293
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 82
+        width: 32
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53a23e415868d9349b698464cfa060dc
+      internalID: -2071268219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_294
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 12
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed002a8f73679fe489648dbea0d25869
+      internalID: 1000328171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_295
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 11
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 960a54d003c0a004f9a487a4ef2e54dc
+      internalID: 1548615512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Interior without swadows_296
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 10
+        width: 74
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa196c0a834f099499f342f327a9151e
+      internalID: -1484711107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Interior without swadows_0: 2022376987
+      Interior without swadows_1: -1854051603
+      Interior without swadows_10: 358345613
+      Interior without swadows_100: 495050999
+      Interior without swadows_101: -110696763
+      Interior without swadows_102: -1008581891
+      Interior without swadows_103: 745767944
+      Interior without swadows_104: 1968220371
+      Interior without swadows_105: 651103003
+      Interior without swadows_106: 921210268
+      Interior without swadows_107: -1850936299
+      Interior without swadows_108: -892662773
+      Interior without swadows_109: 2027670332
+      Interior without swadows_11: -483336086
+      Interior without swadows_110: 859217478
+      Interior without swadows_111: 1214711963
+      Interior without swadows_112: 1895437613
+      Interior without swadows_113: 563127115
+      Interior without swadows_114: -2000193474
+      Interior without swadows_115: 406284769
+      Interior without swadows_116: 1655311007
+      Interior without swadows_117: -472947939
+      Interior without swadows_118: 1004418399
+      Interior without swadows_119: -2066922621
+      Interior without swadows_12: 1642368218
+      Interior without swadows_120: 715333045
+      Interior without swadows_121: -464170857
+      Interior without swadows_122: 588105280
+      Interior without swadows_123: 698270474
+      Interior without swadows_124: -156201339
+      Interior without swadows_125: -2089408409
+      Interior without swadows_126: -1398252706
+      Interior without swadows_127: 240659503
+      Interior without swadows_128: -1845182785
+      Interior without swadows_129: -530311844
+      Interior without swadows_13: 175031024
+      Interior without swadows_130: 43818526
+      Interior without swadows_131: -341136096
+      Interior without swadows_132: -1220091218
+      Interior without swadows_133: -684009184
+      Interior without swadows_134: 469331023
+      Interior without swadows_135: 1461203221
+      Interior without swadows_136: 183253987
+      Interior without swadows_137: 1691819505
+      Interior without swadows_138: 677305792
+      Interior without swadows_139: 2043353526
+      Interior without swadows_14: 1964972752
+      Interior without swadows_140: -1161654039
+      Interior without swadows_141: 673470463
+      Interior without swadows_142: -1872020841
+      Interior without swadows_143: 1681622577
+      Interior without swadows_144: 161441887
+      Interior without swadows_145: 140561272
+      Interior without swadows_146: -1721859997
+      Interior without swadows_147: 1861786816
+      Interior without swadows_148: 419306864
+      Interior without swadows_149: 1253972706
+      Interior without swadows_15: -2107683554
+      Interior without swadows_150: -630859387
+      Interior without swadows_151: -349796257
+      Interior without swadows_152: -429731285
+      Interior without swadows_153: 1321133216
+      Interior without swadows_154: -59175669
+      Interior without swadows_155: -1850939661
+      Interior without swadows_156: 1457395931
+      Interior without swadows_157: -2110816391
+      Interior without swadows_158: 561374681
+      Interior without swadows_159: -744119323
+      Interior without swadows_16: -312843803
+      Interior without swadows_160: 1903683038
+      Interior without swadows_161: -1265835715
+      Interior without swadows_162: 1185446752
+      Interior without swadows_163: 1607164448
+      Interior without swadows_164: -798932739
+      Interior without swadows_165: -1912854600
+      Interior without swadows_166: 1884990419
+      Interior without swadows_167: -32341326
+      Interior without swadows_168: 1592482214
+      Interior without swadows_169: 773173838
+      Interior without swadows_17: -1813725264
+      Interior without swadows_170: 1958764992
+      Interior without swadows_171: -172722502
+      Interior without swadows_172: 2121217987
+      Interior without swadows_173: -550673704
+      Interior without swadows_174: -654940637
+      Interior without swadows_175: 1779634437
+      Interior without swadows_176: 252918491
+      Interior without swadows_177: -1540090605
+      Interior without swadows_178: -1084354846
+      Interior without swadows_179: 1658071129
+      Interior without swadows_18: 1195886418
+      Interior without swadows_180: -777551056
+      Interior without swadows_181: -88889485
+      Interior without swadows_182: -421804344
+      Interior without swadows_183: -1339618436
+      Interior without swadows_184: 1794635948
+      Interior without swadows_185: 1566644286
+      Interior without swadows_186: -838026852
+      Interior without swadows_187: -1180393428
+      Interior without swadows_188: 371379332
+      Interior without swadows_189: 1693277015
+      Interior without swadows_19: -1466348473
+      Interior without swadows_190: -18039399
+      Interior without swadows_191: 326043341
+      Interior without swadows_192: -692928833
+      Interior without swadows_193: -1734035322
+      Interior without swadows_194: -223799421
+      Interior without swadows_195: -1172302042
+      Interior without swadows_196: -222612693
+      Interior without swadows_197: 1565766044
+      Interior without swadows_198: 1036215355
+      Interior without swadows_199: -2079920075
+      Interior without swadows_2: -200638184
+      Interior without swadows_20: -981009492
+      Interior without swadows_200: -974313850
+      Interior without swadows_201: -93726452
+      Interior without swadows_202: -1132634845
+      Interior without swadows_203: -1162530008
+      Interior without swadows_204: -1036438227
+      Interior without swadows_205: 483324934
+      Interior without swadows_206: -2020554600
+      Interior without swadows_207: -1961094419
+      Interior without swadows_208: 909334079
+      Interior without swadows_209: 1413675243
+      Interior without swadows_21: -221500856
+      Interior without swadows_210: -1169905683
+      Interior without swadows_211: -656475447
+      Interior without swadows_212: 944264663
+      Interior without swadows_213: 98079017
+      Interior without swadows_214: -681244280
+      Interior without swadows_215: 1296292248
+      Interior without swadows_216: 1816616349
+      Interior without swadows_217: 1306999900
+      Interior without swadows_218: -613045103
+      Interior without swadows_219: 161885794
+      Interior without swadows_22: 839801471
+      Interior without swadows_220: 892872325
+      Interior without swadows_221: -1565822775
+      Interior without swadows_222: 1502140906
+      Interior without swadows_223: -1133409172
+      Interior without swadows_224: -2055109189
+      Interior without swadows_225: 1472650929
+      Interior without swadows_226: -1747467300
+      Interior without swadows_227: -471307345
+      Interior without swadows_228: -867490370
+      Interior without swadows_229: -1848608847
+      Interior without swadows_23: 577131366
+      Interior without swadows_230: 1104204609
+      Interior without swadows_231: 1304535214
+      Interior without swadows_232: 880700147
+      Interior without swadows_233: -40268848
+      Interior without swadows_234: 1895026843
+      Interior without swadows_235: 843254282
+      Interior without swadows_236: 1721283599
+      Interior without swadows_237: -1085906798
+      Interior without swadows_238: -1070959258
+      Interior without swadows_239: 659151514
+      Interior without swadows_24: -1502672985
+      Interior without swadows_240: -1415325563
+      Interior without swadows_241: 1681867282
+      Interior without swadows_242: -468653384
+      Interior without swadows_243: -1482999600
+      Interior without swadows_244: 700606926
+      Interior without swadows_245: -1797619307
+      Interior without swadows_246: 1964403861
+      Interior without swadows_247: -878371841
+      Interior without swadows_248: -540787143
+      Interior without swadows_249: 397481144
+      Interior without swadows_25: -1626363547
+      Interior without swadows_250: 602914949
+      Interior without swadows_251: 1887310555
+      Interior without swadows_252: -1456313057
+      Interior without swadows_253: -1273803318
+      Interior without swadows_254: -1758274316
+      Interior without swadows_255: -1886239613
+      Interior without swadows_256: -1547641219
+      Interior without swadows_257: -1967659824
+      Interior without swadows_258: -1959908795
+      Interior without swadows_259: -1494293097
+      Interior without swadows_26: -1733593140
+      Interior without swadows_260: 514725252
+      Interior without swadows_261: -1389622302
+      Interior without swadows_262: -40927232
+      Interior without swadows_263: -48567581
+      Interior without swadows_264: 432074132
+      Interior without swadows_265: 1899487065
+      Interior without swadows_266: -1272616775
+      Interior without swadows_267: -1479066511
+      Interior without swadows_268: 1207776562
+      Interior without swadows_269: 487194828
+      Interior without swadows_27: 1452025034
+      Interior without swadows_270: 1379778355
+      Interior without swadows_271: 318474711
+      Interior without swadows_272: -807880623
+      Interior without swadows_273: 1036880538
+      Interior without swadows_274: -522603241
+      Interior without swadows_275: 1257510336
+      Interior without swadows_276: -1569293669
+      Interior without swadows_277: 1087566233
+      Interior without swadows_278: 739835222
+      Interior without swadows_279: 788589111
+      Interior without swadows_28: 45948797
+      Interior without swadows_280: -2094636691
+      Interior without swadows_281: -1978221281
+      Interior without swadows_282: 679508412
+      Interior without swadows_283: 669869467
+      Interior without swadows_284: -184892442
+      Interior without swadows_285: -981550236
+      Interior without swadows_286: -1063454916
+      Interior without swadows_287: 321065719
+      Interior without swadows_288: -1446097883
+      Interior without swadows_289: 227640426
+      Interior without swadows_29: 1592434531
+      Interior without swadows_290: 1932462576
+      Interior without swadows_291: -1802363392
+      Interior without swadows_292: 1055883472
+      Interior without swadows_293: -2071268219
+      Interior without swadows_294: 1000328171
+      Interior without swadows_295: 1548615512
+      Interior without swadows_296: -1484711107
+      Interior without swadows_3: 1514719829
+      Interior without swadows_30: 368596975
+      Interior without swadows_31: 336502250
+      Interior without swadows_32: -722854751
+      Interior without swadows_33: 584310052
+      Interior without swadows_34: -412560325
+      Interior without swadows_35: 103954585
+      Interior without swadows_36: 1397547932
+      Interior without swadows_37: 861400125
+      Interior without swadows_38: -1650701213
+      Interior without swadows_39: -2034154092
+      Interior without swadows_4: 244328999
+      Interior without swadows_40: -124273358
+      Interior without swadows_41: 865909202
+      Interior without swadows_42: -1892796265
+      Interior without swadows_43: -1390252677
+      Interior without swadows_44: -960228879
+      Interior without swadows_45: 1112748333
+      Interior without swadows_46: 1084267866
+      Interior without swadows_47: 1682407805
+      Interior without swadows_48: 147580664
+      Interior without swadows_49: -2064790936
+      Interior without swadows_5: 560641299
+      Interior without swadows_50: -1766414083
+      Interior without swadows_51: -45407069
+      Interior without swadows_52: -381217879
+      Interior without swadows_53: -1175397227
+      Interior without swadows_54: -683410531
+      Interior without swadows_55: -1502786365
+      Interior without swadows_56: 671379592
+      Interior without swadows_57: 765636620
+      Interior without swadows_58: -213357491
+      Interior without swadows_59: -481844186
+      Interior without swadows_6: 1912990590
+      Interior without swadows_60: -1354193222
+      Interior without swadows_61: -183112506
+      Interior without swadows_62: 744183542
+      Interior without swadows_63: 628952296
+      Interior without swadows_64: 1933663375
+      Interior without swadows_65: 1598642419
+      Interior without swadows_66: -405682935
+      Interior without swadows_67: 1632992343
+      Interior without swadows_68: 1285790545
+      Interior without swadows_69: -1070422269
+      Interior without swadows_7: 465082136
+      Interior without swadows_70: 275935979
+      Interior without swadows_71: 968313322
+      Interior without swadows_72: 250665898
+      Interior without swadows_73: 1186783395
+      Interior without swadows_74: -1657285154
+      Interior without swadows_75: 2134719671
+      Interior without swadows_76: -195405140
+      Interior without swadows_77: 701598134
+      Interior without swadows_78: -1543683248
+      Interior without swadows_79: -1020696621
+      Interior without swadows_8: -154162188
+      Interior without swadows_80: 1522204595
+      Interior without swadows_81: -989337054
+      Interior without swadows_82: 197945744
+      Interior without swadows_83: 1299370591
+      Interior without swadows_84: -2046058204
+      Interior without swadows_85: -1054116530
+      Interior without swadows_86: -1341216567
+      Interior without swadows_87: -1733618361
+      Interior without swadows_88: -1803615677
+      Interior without swadows_89: -1620870717
+      Interior without swadows_9: 576741796
+      Interior without swadows_90: -1096033675
+      Interior without swadows_91: -581756708
+      Interior without swadows_92: 1599839192
+      Interior without swadows_93: -1691230775
+      Interior without swadows_94: -120342383
+      Interior without swadows_95: -224501002
+      Interior without swadows_96: -1962265813
+      Interior without swadows_97: -947327493
+      Interior without swadows_98: -282636474
+      Interior without swadows_99: 196013585
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
