@@ -5,6 +5,7 @@ using UnityEngine;
 public class move : MonoBehaviour
 {
     [SerializeField] float speed = 1f;
+    [SerializeField] private Talk dialogueSystem;
     private Rigidbody2D rb;
     private Animator animator;
 
@@ -16,11 +17,21 @@ public class move : MonoBehaviour
 
     void Update()
     {
+
         float moveX = Input.GetAxisRaw("Horizontal");
         float moveY = Input.GetAxisRaw("Vertical");
         Vector2 move = new Vector2(moveX, moveY);
 
-        rb.velocity = move * speed;
+        if (dialogueSystem.IsActive == false)
+        {
+            rb.constraints = RigidbodyConstraints2D.None;
+            rb.constraints = RigidbodyConstraints2D.FreezeRotation;
+            rb.velocity = move * speed;
+        }
+        else
+        {
+            rb.constraints = RigidbodyConstraints2D.FreezeAll;
+        }
 
         
         animator.SetFloat("MoveX", moveX);
