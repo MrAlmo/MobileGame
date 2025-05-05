@@ -6,6 +6,7 @@ TagManager:
   tags:
   - NPC
   - NPC_Text
+  - Bounds
   layers:
   - Default
   - TransparentFX

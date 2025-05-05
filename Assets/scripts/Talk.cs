@@ -7,8 +7,8 @@ using UnityEngine.UI;
 public class Talk : MonoBehaviour
 {
     [SerializeField] private TMP_Text dialogueText; 
-    [SerializeField] private GameObject dialoguePanel; 
-    [SerializeField] private Button nextButton; 
+    [SerializeField] private GameObject dialoguePanel;
+    [SerializeField] private Button nextButton;
 
     private string[] dialogueLines; 
     private int currentLine = 0;
