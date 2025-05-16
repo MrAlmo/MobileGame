@@ -4,23 +4,20 @@ using UnityEngine;
 
 public class Talk_NPC : MonoBehaviour
 {
-    [SerializeField] private Talk dialogueSystem;
+    [SerializeField] private DialogueManager dialogueSystem;
+    [SerializeField] private DialogueData dialogueData;
 
-    private string[] npcLines =
-    {
-        "Hello",
-        "What do you want?",
-        "Test ????"
-    };
+    private bool hasTalked = false;
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
-        Debug.Log("Collision with npc 1");
+        if (hasTalked) return;
+
         if (collision.gameObject.CompareTag("Player"))
         {
-            dialogueSystem.StartDialogue(npcLines);
+            dialogueSystem.StartDialogue(dialogueData);
+            hasTalked = true;
         }
     }
-
 }
 

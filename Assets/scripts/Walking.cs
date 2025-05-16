@@ -26,7 +26,7 @@ public class Walking: MonoBehaviour
 
         // Перевірка на перешкоду попереду
         RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, moveDirection, groundCheckDistance, obstacleLayer);
-        if (hit.collider != null)
+        if (hit.collider != null && hit.collider.gameObject.CompareTag("Untagged"))
         {
             // Зміна напрямку руху
             moveDirection *= -1;
@@ -37,6 +37,8 @@ public class Walking: MonoBehaviour
             transform.localScale = scale;
         }
     }
+
+   
 
     private void OnDrawGizmosSelected()
     {

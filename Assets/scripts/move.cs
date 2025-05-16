@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class move : MonoBehaviour
 {
-    [SerializeField] private Talk dialogueSystem;
+    [SerializeField] private DialogueManager dialogueSystem;
     [SerializeField] private float speed = 1f;
     private Rigidbody2D rb;
     private Animator animator;
