@@ -17,6 +17,7 @@ public class Talk_NPC : MonoBehaviour
         {
             dialogueSystem.StartDialogue(dialogueData);
             hasTalked = true;
+            LevelManager.Instance.RegisterTalk();
         }
     }
 }
