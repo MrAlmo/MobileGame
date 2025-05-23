@@ -7,4 +7,5 @@ public class DialogueOption
 {
     public string playerResponse;
     public int nextLineIndex;
+    public int affinityChange;
 }

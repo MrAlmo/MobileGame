@@ -12,11 +12,13 @@ public class DialogueManager : MonoBehaviour
     private DialogueData currentDialogue;
     private int currentLineIndex;
     public bool IsActive = false;
+    private NPCDialogueState npcState;
 
-    public void StartDialogue(DialogueData data)
+    public void StartDialogue(DialogueData data, NPCDialogueState npc)
     {
         IsActive = true;
         currentDialogue = data;
+        npcState = npc;
         currentLineIndex = 0;
         dialoguePanel.SetActive(true);
         nextButton.gameObject.SetActive(false);
@@ -38,8 +40,9 @@ public class DialogueManager : MonoBehaviour
                 optionButtons[i].GetComponentInChildren<TMP_Text>().text = line.options[i].playerResponse;
 
                 int nextIndex = line.options[i].nextLineIndex;
+                int affinityChange = line.options[i].affinityChange;
                 optionButtons[i].onClick.RemoveAllListeners();
-                optionButtons[i].onClick.AddListener(() => OnOptionSelected(nextIndex));
+                optionButtons[i].onClick.AddListener(() => OnOptionSelected(nextIndex, affinityChange));
             }
             else
             {
@@ -52,14 +55,16 @@ public class DialogueManager : MonoBehaviour
 
         if (!hasOptions)
         {
-            nextButton.onClick.AddListener(() => OnOptionSelected(currentLineIndex + 1));
+            nextButton.onClick.AddListener(() => OnOptionSelected(currentLineIndex + 1, 0));
         }
     }
 
 
 
-    private void OnOptionSelected(int nextIndex)
+    private void OnOptionSelected(int nextIndex, int affinityChange)
     {
+        npcState.AdjustAffinity(affinityChange);
+
         if (nextIndex >= 0 && nextIndex < currentDialogue.lines.Length)
         {
             currentLineIndex = nextIndex;
@@ -67,6 +72,7 @@ public class DialogueManager : MonoBehaviour
         }
         else
         {
+            npcState.FinishDialogue();
             EndDialogue();
         }
     }
