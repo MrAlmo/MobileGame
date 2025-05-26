@@ -6,8 +6,9 @@ public class Talk_NPC : MonoBehaviour
 {
     [SerializeField] private DialogueManager dialogueSystem;
     [SerializeField] private DialogueData dialogueData;
+    [SerializeField] private GameObject npcPrefab;
 
-    private bool hasTalked = false;
+    public bool hasTalked = false;
     private NPCDialogueState npcState;
     private void Awake()
     {
@@ -19,7 +20,7 @@ public class Talk_NPC : MonoBehaviour
 
         npcState.dialogueData = dialogueData;
 
-        GameNpcManager.Instance.allNPCs.Add(npcState);
+        npcState.npcPrefab = npcPrefab;
     }
     private void OnCollisionEnter2D(Collision2D collision)
     {

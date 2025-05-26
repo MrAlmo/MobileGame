@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class NPCDialogueState : MonoBehaviour
 {
+    public GameObject npcPrefab;
+
     public DialogueData dialogueData;
     public bool interactionFinished = false;
     public DialogueOutcome finalOutcome = DialogueOutcome.None;
@@ -19,5 +21,10 @@ public class NPCDialogueState : MonoBehaviour
     {
         interactionFinished = true;
         finalOutcome = affinity >= 0 ? DialogueOutcome.Positive : DialogueOutcome.Negative;
+
+        if (finalOutcome == DialogueOutcome.Positive && npcPrefab != null)
+        {
+            GameNpcManager.Instance.RegisterPositiveNPC(npcPrefab);
+        }
     }
 }

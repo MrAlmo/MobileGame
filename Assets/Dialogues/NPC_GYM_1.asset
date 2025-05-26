@@ -1,0 +1,39 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799d2de6f7a7d924aa9afd7038c020a2, type: 3}
+  m_Name: NPC_GYM_1
+  m_EditorClassIdentifier: 
+  lines:
+  - npcText: Hello, I ask everyone to play but noone wants
+    options: []
+    outcome: 0
+  - npcText: Maybe you wanna play with me please?
+    options:
+    - playerResponse: Yes, why not
+      nextLineIndex: 2
+      affinityChange: 0
+    - playerResponse: Bruh, ok...
+      nextLineIndex: 3
+      affinityChange: 0
+    outcome: 0
+  - npcText: Thank you
+    options:
+    - playerResponse: No problem
+      nextLineIndex: 4
+      affinityChange: 0
+    outcome: 0
+  - npcText: Oh, but anyway thanks...
+    options: []
+    outcome: 0
+  - npcText: So let's go!
+    options: []
+    outcome: 2
