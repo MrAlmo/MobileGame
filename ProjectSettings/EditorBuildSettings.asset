@@ -11,4 +11,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/gym.unity
     guid: fa98a8d352c093844b1d92272fa81dc8
+  - enabled: 1
+    path: Assets/Scenes/roof.unity
+    guid: fe6f5c86a82729b42b68b9a3fd1015b8
   m_configObjects: {}

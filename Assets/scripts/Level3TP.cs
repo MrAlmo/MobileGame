@@ -5,10 +5,11 @@ using UnityEngine;
 using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
-
-public class Level2TP : MonoBehaviour
+public class Level3TP : MonoBehaviour
 {
-    [SerializeField] private string playerTag = "Player";
+    [SerializeField] private TicTacToe TicTacToe;
+    [SerializeField] private ReactionGame React;
+    [SerializeField] private ClickerGame ClickerGame;
     [SerializeField] private GameObject dialoguePanel;
     [SerializeField] private Button yesButton;
     [SerializeField] private Button noButton;
@@ -19,47 +20,38 @@ public class Level2TP : MonoBehaviour
 
 
     private GameObject player;
+    private bool hasCompleted = false;
 
 
-
-    private void OnTriggerEnter2D(Collider2D other)
+    private void Update()
     {
 
-        if (other.CompareTag(playerTag) && LevelManager.Instance.nextLevel)
+        if (!hasCompleted &&
+        TicTacToe.Won &&
+        React.Won &&
+        ClickerGame.Won &&
+        !TicTacToe.gameObject.activeSelf &&
+        !React.gameObject.activeSelf &&
+        !ClickerGame.gameObject.activeSelf)
         {
-            yesButton.GetComponentInChildren<TMP_Text>().text = "Yes";
-            noButton.GetComponentInChildren<TMP_Text>().text = "No";
-            yesButton.onClick.AddListener(OnYes);
-            noButton.onClick.AddListener(OnNo);
-            player = other.gameObject;
-            ShowDialogue("Enter the Gym?");
-        }
-        else if (other.CompareTag(playerTag) && !LevelManager.Instance.nextLevel)
-        {
+            hasCompleted = true; 
 
-            player = other.gameObject;
-            ShowDialogue("Door is closed.");
-
-        }
-    }
-
-    private void OnTriggerExit2D(Collider2D other)
-    {
-        if (other.CompareTag(playerTag))
-        {
-            HideDialogue();
-            player = null;
-            yesButton.onClick.RemoveAllListeners();
-            noButton.onClick.RemoveAllListeners();
+            if (LevelManager.Instance.nextLevel)
+            {
+                yesButton.GetComponentInChildren<TMP_Text>().text = "Yes";
+                noButton.GetComponentInChildren<TMP_Text>().text = "Let's go";
+                yesButton.onClick.AddListener(OnYes);
+                noButton.onClick.AddListener(OnNo);
+                ShowDialogue("Now you can enter the roof.");
+            }
         }
     }
 
 
     private void OnYes()
     {
-        if (player != null && LevelManager.Instance.nextLevel)
+        if (LevelManager.Instance.nextLevel)
         {
-
             StartCoroutine(FadeNextScene());
             //LevelManager.Instance.GoToNextLevel();
         }
@@ -68,7 +60,7 @@ public class Level2TP : MonoBehaviour
 
     private void OnNo()
     {
-        HideDialogue();
+        OnYes();
     }
     private void ShowDialogue(string question)
     {
@@ -80,14 +72,7 @@ public class Level2TP : MonoBehaviour
             yesButton.gameObject.SetActive(true);
             noButton.gameObject.SetActive(true);
         }
-        else
-        {
-            text.text = question;
-            dialoguePanel.SetActive(true);
-            nextButton.gameObject.SetActive(false);
-            yesButton.gameObject.SetActive(false);
-            noButton.gameObject.SetActive(false);
-        }
+        
     }
 
     private void HideDialogue()
@@ -104,6 +89,15 @@ public class Level2TP : MonoBehaviour
         fadeCanvas.gameObject.SetActive(false);
     }
 }
+
+
+    //void Update()
+    //{
+    //    if (TicTacToe.Won && React.Won && ClickerGame.Won && !TicTacToe.gameObject.activeSelf && !React.gameObject.activeSelf && !ClickerGame.gameObject.activeSelf)
+    //    {
+
+    //    }
+    //}
 
 
 
