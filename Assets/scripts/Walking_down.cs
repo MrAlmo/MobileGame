@@ -26,7 +26,7 @@ public class Walking_down: MonoBehaviour
 
         // Перевірка на перешкоду попереду
         RaycastHit2D hit = Physics2D.Raycast(groundCheck.position, moveDirection, groundCheckDistance, obstacleLayer);
-        if (hit.collider != null && hit.collider.gameObject.CompareTag("Untagged"))
+        if (hit.collider != null && hit.collider.gameObject.CompareTag("WallRichochet"))
         {
             // Зміна напрямку руху
             moveDirection *= -1;

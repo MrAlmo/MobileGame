@@ -1,0 +1,48 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799d2de6f7a7d924aa9afd7038c020a2, type: 3}
+  m_Name: ZADIRA
+  m_EditorClassIdentifier: 
+  lines:
+  - npcText: You again? What, here to act smart? Or just bored without a kick?
+    options:
+    - playerResponse: "You think you're strong when you hurt others? That\u2019s
+        just sad"
+      nextLineIndex: 1
+      affinityChange: -1
+    - playerResponse: "You\u2019re being mean\u2026 are you upset about something? "
+      nextLineIndex: 2
+      affinityChange: 1
+    outcome: 0
+  - npcText: "Careful, professor\u2026 Talk like that might land you in a locker"
+    options:
+    - playerResponse: Bye...
+      nextLineIndex: 4
+      affinityChange: -1
+    outcome: 0
+  - npcText: "What? I\u2026 it\u2019s nothing\u2026 Things are just messed up at
+      home. Whatever"
+    options:
+    - playerResponse: "\u201CIf you ever want to talk, I\u2019m here. You don\u2019t
+        have to go through it alone."
+      nextLineIndex: 3
+      affinityChange: 1
+    outcome: 0
+  - npcText: '*says nothing, but looks different*'
+    options:
+    - playerResponse: Goodbye!
+      nextLineIndex: 4
+      affinityChange: 0
+    outcome: 0
+  - npcText: ...
+    options: []
+    outcome: 0

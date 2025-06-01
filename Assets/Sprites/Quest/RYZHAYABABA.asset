@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 799d2de6f7a7d924aa9afd7038c020a2, type: 3}
+  m_Name: RYZHAYABABA
+  m_EditorClassIdentifier: 
+  lines:
+  - npcText: Hi,you are new in school?
+    options:
+    - playerResponse: Hi,yes,first week here,how are you?
+      nextLineIndex: 1
+      affinityChange: 0
+    outcome: 0
+  - npcText: "Sometimes I feel like I\u2019m just background. No one notices me."
+    options:
+    - playerResponse: "You\u2019re more than background. I\u2019ve seen you help
+        others \u2014 that matters"
+      nextLineIndex: 2
+      affinityChange: 1
+    - playerResponse: Well, not everyone gets to shine. Deal with it
+      nextLineIndex: 3
+      affinityChange: -1
+    outcome: 0
+  - npcText: "Really? No one\u2019s ever said that to me\u2026 Thank you"
+    options:
+    - playerResponse: I have to go,have a nice day!
+      nextLineIndex: 4
+      affinityChange: 1
+    outcome: 0
+  - npcText: Oh....
+    options:
+    - playerResponse: Bye
+      nextLineIndex: 4
+      affinityChange: -1
+    outcome: 0
+  - npcText: 'Bye '
+    options: []
+    outcome: 0

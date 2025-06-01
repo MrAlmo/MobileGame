@@ -47,7 +47,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 100
+  spritePixelsToUnits: 64
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -67,9 +67,9 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
-    resizeAlgorithm: 0
-    textureFormat: -1
+    maxTextureSize: 16384
+    resizeAlgorithm: 1
+    textureFormat: 4
     textureCompression: 1
     compressionQuality: 50
     crunchedCompression: 0
@@ -98,7 +98,7 @@ TextureImporter:
         serializedVersion: 2
         x: 0
         y: 223
-        width: 34
+        width: 32
         height: 65
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
@@ -201,10 +201,10 @@ TextureImporter:
       name: RPG Nature Tileset_5
       rect:
         serializedVersion: 2
-        x: 64
+        x: 65
         y: 193
-        width: 31
-        height: 31
+        width: 30
+        height: 30
       alignment: 0
       pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -294,6 +294,7 @@ TextureImporter:
     nameFileIdTable:
       RPG Nature Tileset_0: 675086654
       RPG Nature Tileset_1: -1062723450
+      RPG Nature Tileset_10: -1722118553
       RPG Nature Tileset_2: 1215365289
       RPG Nature Tileset_3: -1139215390
       RPG Nature Tileset_4: 1145561681
@@ -301,6 +302,7 @@ TextureImporter:
       RPG Nature Tileset_6: 991892112
       RPG Nature Tileset_7: 132068764
       RPG Nature Tileset_8: -1926634883
+      RPG Nature Tileset_9: -815902923
   spritePackingTag: 
   pSDRemoveMatte: 0
   pSDShowRemoveMatteOption: 0
