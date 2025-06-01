@@ -55,4 +55,19 @@ public class FadeController : MonoBehaviour
         fadeImage.color = new Color(0, 0, 0, targetAlpha);
         
     }
+
+    public void FadeToSceneIndex(int sceneIndex)
+    {
+        StartCoroutine(FadeAndLoad(sceneIndex));
+    }
+
+    private IEnumerator FadeAndLoad(int sceneIndex)
+    {
+        Canvas.gameObject.SetActive(true);
+        yield return StartCoroutine(Fade(1));
+        SceneManager.LoadScene(sceneIndex);
+        yield return new WaitForSeconds(0.1f);
+        yield return StartCoroutine(Fade(0));
+        Canvas.gameObject.SetActive(false);
+    }
 }

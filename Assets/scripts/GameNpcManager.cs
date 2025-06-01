@@ -28,6 +28,8 @@ public class GameNpcManager : MonoBehaviour
     {
         if (!positiveNpcPrefabs.Contains(npcPrefab))
         {
+            npcPrefab.transform.SetParent(null);
+            DontDestroyOnLoad(npcPrefab);
             positiveNpcPrefabs.Add(npcPrefab);
         }
     }

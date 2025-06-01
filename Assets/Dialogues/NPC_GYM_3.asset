@@ -17,7 +17,7 @@ MonoBehaviour:
     options:
     - playerResponse: Nip
       nextLineIndex: 1
-      affinityChange: 0
+      affinityChange: -1
     outcome: 0
   - npcText: Go
     options: []

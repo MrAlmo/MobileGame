@@ -4,14 +4,15 @@ using UnityEngine;
 
 public class Talk_NPC : MonoBehaviour
 {
-    [SerializeField] private DialogueManager dialogueSystem;
-    [SerializeField] private DialogueData dialogueData;
-    [SerializeField] private GameObject npcPrefab;
+    [SerializeField] public DialogueManager dialogueSystem;
+    [SerializeField] public DialogueData dialogueData;
+    [SerializeField] public GameObject npcPrefab;
 
     public bool hasTalked = false;
     private NPCDialogueState npcState;
     private void Awake()
     {
+        
         npcState = GetComponent<NPCDialogueState>();
         if (npcState == null)
         {

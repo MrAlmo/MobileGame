@@ -20,16 +20,16 @@ MonoBehaviour:
     options:
     - playerResponse: Yes, why not
       nextLineIndex: 2
-      affinityChange: 0
+      affinityChange: -1
     - playerResponse: Bruh, ok...
       nextLineIndex: 3
-      affinityChange: 0
+      affinityChange: -1
     outcome: 0
   - npcText: Thank you
     options:
     - playerResponse: No problem
       nextLineIndex: 4
-      affinityChange: 0
+      affinityChange: -1
     outcome: 0
   - npcText: Oh, but anyway thanks...
     options: []

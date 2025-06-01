@@ -7,7 +7,7 @@ public class DialogueManager : MonoBehaviour
     [SerializeField] private TMP_Text npcText;
     [SerializeField] private GameObject dialoguePanel;
     [SerializeField] private Button[] optionButtons;
-    [SerializeField] private Button nextButton;
+    [SerializeField] public Button nextButton;
 
     private DialogueData currentDialogue;
     private int currentLineIndex;
