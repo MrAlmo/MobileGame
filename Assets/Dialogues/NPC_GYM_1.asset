@@ -13,27 +13,26 @@ MonoBehaviour:
   m_Name: NPC_GYM_1
   m_EditorClassIdentifier: 
   lines:
-  - npcText: Hello, I ask everyone to play but noone wants
-    options: []
-    outcome: 0
-  - npcText: Maybe you wanna play with me please?
+  - npcText: Hello, are you a new student?
     options:
-    - playerResponse: Yes, why not
+    - playerResponse: Yes
+      nextLineIndex: 1
+      affinityChange: -1
+    outcome: 0
+  - npcText: Oh, thats cool, let's play with me in TicTacToe.
+    options:
+    - playerResponse: Ok I really like to play games.
       nextLineIndex: 2
       affinityChange: -1
-    - playerResponse: Bruh, ok...
-      nextLineIndex: 3
+    - playerResponse: Ok but it is boring
+      nextLineIndex: 2
       affinityChange: -1
     outcome: 0
-  - npcText: Thank you
-    options:
-    - playerResponse: No problem
-      nextLineIndex: 4
-      affinityChange: -1
-    outcome: 0
-  - npcText: Oh, but anyway thanks...
+  - npcText: If you win me and my friends in 3 different games, I will give you a
+      key to open a roof door. There is very beautiful view.
     options: []
     outcome: 0
-  - npcText: So let's go!
+  - npcText: "To win, you have to make any straight line of \u201CX's\u201D. Let's
+      Go!."
     options: []
-    outcome: 2
+    outcome: 0

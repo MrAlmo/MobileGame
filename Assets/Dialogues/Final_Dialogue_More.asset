@@ -13,12 +13,22 @@ MonoBehaviour:
   m_Name: Final_Dialogue_More
   m_EditorClassIdentifier: 
   lines:
-  - npcText: Thank you for your help
+  - npcText: Hello again
     options: []
     outcome: 0
-  - npcText: Because of that we realise everything and become better
+  - npcText: 'Thank you very much. '
     options: []
     outcome: 0
-  - npcText: We will never be hurted from bulling or bull someone.
+  - npcText: Because of your words, We've realized a lot of things.
+    options: []
+    outcome: 0
+  - npcText: We feel We've become stronger morally.
+    options: []
+    outcome: 0
+  - npcText: And We don't think We'll ever be hurt by bullying again, nor will we
+      ever hurt others.
+    options: []
+    outcome: 0
+  - npcText: '*everyone smiles*'
     options: []
     outcome: 0

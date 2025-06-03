@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: NPC_GYM_3
   m_EditorClassIdentifier: 
   lines:
-  - npcText: PPP
+  - npcText: Hello, I very like clicker games, maybe you wanna play with me?
     options:
-    - playerResponse: Nip
+    - playerResponse: Yep, why not
+      nextLineIndex: 1
+      affinityChange: -1
+    - playerResponse: Not really but I need enter the roof.
       nextLineIndex: 1
       affinityChange: -1
     outcome: 0
-  - npcText: Go
+  - npcText: The goal is to obtain at least 50 points in 10 seconds.
     options: []
-    outcome: 2
+    outcome: 0
+  - npcText: Let's go!
+    options: []
+    outcome: 0

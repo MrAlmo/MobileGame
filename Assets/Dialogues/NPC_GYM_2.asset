@@ -13,12 +13,18 @@ MonoBehaviour:
   m_Name: NPC_GYM_2
   m_EditorClassIdentifier: 
   lines:
-  - npcText: Hi
+  - npcText: Hi my name is Bob. Do you like some reaction games?
     options:
-    - playerResponse: Yo
+    - playerResponse: Yes
+      nextLineIndex: 1
+      affinityChange: -1
+    - playerResponse: No but I need a key so I could play with you
       nextLineIndex: 1
       affinityChange: -1
     outcome: 0
-  - npcText: Bob
+  - npcText: To win me, you have to press the button faster than me.
     options: []
-    outcome: 2
+    outcome: 0
+  - npcText: 'My time is: 0.45 s. Try to beat it!'
+    options: []
+    outcome: 0
